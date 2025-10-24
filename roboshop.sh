@@ -1,5 +1,5 @@
 #!/bin/bash
-ami-id="ami-09c813fb71547fc4f"
+ami_id="ami-09c813fb71547fc4f"
 sg_id="sg-0421c015ec6afe1d7"
 zone_id="Z0755238YFAMOXJZ58F2"
 domain_name="pm-cicd.fun"
