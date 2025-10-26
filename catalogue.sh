@@ -55,7 +55,7 @@ VALIDATE $? "Downloading catalogue application"
 cd /app 
 VALIDATE $? "Changing to app directory"
 
-rm -f /app/*
+rm -rf /app/*
 VALIDATE $? "removing existing code"
 
 
